@@ -17,7 +17,4 @@
 | 09 | Student Management System | OOP | ⬜ |
 | 10 | QR Code Generator | qrcode, Pillow | ⬜ |
 
-## 🚀 How to Run
-```bash
-cd 01-cgpa-grade-checker
-python grade.py
+
