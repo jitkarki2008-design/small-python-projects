@@ -9,7 +9,7 @@
 | 01 | CGPA Grade Checker | variables, if-else, f-strings | ✅ Done |
 | 02 | Smart Calculator | functions, loops, try-except | ✅ Done |
 | 03 | Number Guessing Game | random, while loop | ✅ Done |
-| 04 | To-Do List CLI | file handling | ⬜ |
+| 04 | To-Do List CLI | file handling | ✅ Done |
 | 05 | Expense Tracker | csv, dict | ⬜ |
 | 06 | Password Generator | string, secrets | ⬜ |
 | 07 | Quiz App | json | ⬜ |
