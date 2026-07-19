@@ -10,7 +10,7 @@
 | 02 | Smart Calculator | functions, loops, try-except | ✅ Done |
 | 03 | Number Guessing Game | random, while loop | ✅ Done |
 | 04 | To-Do List CLI | file handling | ✅ Done |
-| 05 | Expense Tracker | csv, dict | ⬜ |
+| 05 | Contact Book  | json | ✅ Done |
 | 06 | Password Generator | string, secrets | ⬜ |
 | 07 | Quiz App | json | ⬜ |
 | 08 | Weather App | API, requests | ⬜ |
