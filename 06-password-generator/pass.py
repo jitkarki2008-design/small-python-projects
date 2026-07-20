@@ -1,4 +1,4 @@
-# 06 - Password Generator using random + string
+# 06 - Password Generator using random + string.
 import random
 import string
 
