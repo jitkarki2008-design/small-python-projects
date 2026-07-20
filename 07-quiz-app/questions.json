@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does CPU stand for?",
+    "options": ["Central Processing Unit", "Computer Personal Unit", "Central Program Unit", "Central Print Unit"],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "question": "Which library is used for random numbers in Python?",
+    "options": ["string", "random", "json", "os"],
+    "answer": "random"
+  },
+  {
+    "question": "What is the file extension for Python?",
+    "options": [".java", ".py", ".cpp", ".js"],
+    "answer": ".py"
+  },
+  {
+    "question": "Which keyword is used to define a function in Python?",
+    "options": ["func", "def", "function", "define"],
+    "answer": "def"
+  },
+  {
+    "question": "What does JSON stand for?",
+    "options": ["JavaScript Object Notation", "Java Source Open Network", "Java Standard Object Note", "Joint System Object Notation"],
+    "answer": "JavaScript Object Notation"
+  }
+]
