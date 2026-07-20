@@ -11,8 +11,8 @@
 | 03 | Number Guessing Game | random, while loop | ✅ Done |
 | 04 | To-Do List CLI | file handling | ✅ Done |
 | 05 | Expense Tracker  | dict, csv files | ✅ Done |
-| 06 | Password Generator | string, secrets | ⬜ |
-| 07 | Quiz App | json | ⬜ |
+| 06 | Password Generator | string, secrets | ✅ Done |
+| 07 | Quiz App | json | ✅ Done |
 | 08 | Weather App | API, requests | ⬜ |
 | 09 | Student Management System | OOP | ⬜ |
 | 10 | QR Code Generator | qrcode, Pillow | ⬜ |
