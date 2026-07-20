@@ -13,8 +13,8 @@
 | 05 | Expense Tracker  | dict, csv files | ✅ Done |
 | 06 | Password Generator | string, secrets | ✅ Done |
 | 07 | Quiz App | json | ✅ Done |
-| 08 | Weather App | API, requests | ⬜ |
-| 09 | Student Management System | OOP | ⬜ |
-| 10 | QR Code Generator | qrcode, Pillow | ⬜ |
+| 08 | Weather App | API, requests | ✅ Done |
+| 09 | Student Management System | OOP | ✅ Done |
+| 10 | QR Code Generator | qrcode, Pillow | ✅ Done |
 
 
