@@ -1,4 +1,4 @@
-# 09 - Student Management System using OOP + JSON
+# 09 - Student Management System using OOP + JSON.
 import json
 import os
 
