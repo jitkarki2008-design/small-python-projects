@@ -1,4 +1,4 @@
-# 07 - Quiz App using JSON + random
+# 07 - Quiz App using JSON + random.
 import json
 import random
 
