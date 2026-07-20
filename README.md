@@ -1,6 +1,6 @@
 # Small Python Projects 🐍
 
-10 beginner to intermediate Python projects - built while learning Python in B.Tech CSBS @ VIT-AP.
+10 beginner to intermediate Python projects - 
 
 ## 📚 Projects Roadmap
 
