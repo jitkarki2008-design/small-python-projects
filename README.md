@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/30187092/README.md)
 # 🐍 Small Python Projects
 
-A collection of 10 beginner-to-intermediate Python projects, built to practice core concepts — from variables and loops to file handling, APIs, JSON, and OOP. Each project is a small, self-contained CLI tool.
+A collection of 10 beginner-to-intermediate Python projects, built to practice core concepts — from variables and loops to file handling, APIs, JSON, and OOP. Each project is a small, self-contained CLI tool. 
 
 ## 📋 Projects Overview
 
